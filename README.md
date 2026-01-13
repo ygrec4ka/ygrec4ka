@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**ygrec4ka/ygrec4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Name:** Sergey  
+**Age:** 19  
+**Location:** Russia  
+**Status:** Actively studying for my first tech role 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+I am currently dedicating my time to intensive, disciplined learning with the goal of landing my first professional opportunity as a backend developer. My primary stack is **Python** with the **FastAPI** framework, and I am focused on mastering modern backend development patterns, system design, and API architecture.
+
+
+## 🧭 Future Goals
+
+I aim to specialize in building **high‑performance, scalable backend systems**, designing robust REST APIs, and eventually working on distributed, high‑load applications. My long‑term interest lies in backend architecture, system optimization, and clean, maintainable code.
