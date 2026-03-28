@@ -1,16 +1,16 @@
-# 👋 Обо мне
+# 👋 About Me
 
-**Имя:** Сергей (Sergey)  
-**Возраст:** 19  
-**Статус:** Активно ищу работу  
+**Name:** Sergey  
+**Age:** 19  
+**Status:** Actively looking for a job  
 
-Backend Developer (Python/FastAPI) с фокусом на проектирование масштабируемой архитектуры и AI-Enhanced Development. Я активно использую ИИ-инструменты, чтобы ускорить рутинные задачи и полностью сосредоточиться на сложных архитектурных вызовах.
+Backend Developer (Python/FastAPI) focused on scalable architecture design and AI-Enhanced Development. I actively utilize AI tools to accelerate routine tasks, allowing me to fully concentrate on complex architectural challenges.
 
 ## 🚀 Current Focus & Stack
 
-В данный момент я углубленно изучаю **Python** под капотом и стараюсь еще лучше закрепить навыки работы с уже изученными технологиями. Моя цель — выстроить глубокое понимание инструментов, которые я использую для разработки масштабируемых и безопасных бэкенд-решений.
+I am currently studying **Python** in-depth under the hood and focusing on solidifying my skills with the technologies I've already learned. My goal is to build a profound understanding of the tools I use to design robust, scalable, and secure backend solutions.
 
-Мой основной стек технологий:
+My core tech stack:
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
