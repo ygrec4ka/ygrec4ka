@@ -1,12 +1,11 @@
-# 👋 About Me
+# About Me
 
-**Name:** Sergey  
-**Age:** 19  
+**Name:** Sergey   
 **Status:** Actively looking for a job  
 
-Backend Developer (Python/FastAPI) focused on scalable architecture design and AI-Enhanced Development. I actively utilize AI tools to accelerate routine tasks, allowing me to fully concentrate on complex architectural challenges.
+Backend Developer (Python/FastAPI) dedicated to writing clean, scalable code. I actively leverage modern developer tools and AI to build high-quality, robust backend architectures, including complex API logic for B2B platforms.
 
-## 🚀 Current Focus & Stack
+## Current Focus & Stack
 
 I am currently studying **Python** in-depth under the hood and focusing on solidifying my skills with the technologies I've already learned. My goal is to build a profound understanding of the tools I use to design robust, scalable, and secure backend solutions.
 
