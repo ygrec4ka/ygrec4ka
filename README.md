@@ -3,7 +3,6 @@
 **Name:** Sergey   
 **Status:** Actively looking for a job  
 
-Backend Developer
 My core tech stack:
 
 <div align="left">
